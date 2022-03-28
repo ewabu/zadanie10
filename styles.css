@@ -31,5 +31,4 @@ ul > li {
 @media (max-width: 700px) {
     ul {display: flex; flex-direction: column;}
     ul > li {background-color: black; width: 100%; margin: 1px;}
-    
     }
